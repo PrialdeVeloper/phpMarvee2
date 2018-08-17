@@ -1,8 +1,0 @@
-TANAN NIMUNG PROJECT SA PHP2 ARI NIMU E BUTANG PARA E GITHUB NALANG NATO. PARA NAA SAY VERSION. DAYUN IKAW NAY PUSH HA
-
-git init
-git add --all
-git commit -m "comment nimu unsay e push nimu"
-git push origin master
-
-MANA
